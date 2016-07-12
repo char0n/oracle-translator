@@ -1,4 +1,4 @@
-# TeamZeus Frontend
+# Oracle translator
 
 ## Prerequisites
 
